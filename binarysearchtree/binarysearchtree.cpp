@@ -89,6 +89,7 @@ public:
 		}
 	}
 
+
 	void preorder(Node* ptr)
 	{
 		if (ROOT == NULL)
